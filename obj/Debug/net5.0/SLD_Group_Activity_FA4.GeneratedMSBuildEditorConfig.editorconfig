@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = SLD_Group_Activity_FA4
+build_property.ProjectDir = E:\Class\Semester 1\SLD521\FA4\SLD_FA4_Caitlin_Hermanus_20232198\SLD_Group_Activity_FA4\
